@@ -1,6 +1,9 @@
-package com.example.myapp;
+package com.example.myapp.activity;
 
 import android.support.v7.app.ActionBarActivity;
+
+import com.example.myapp.R;
+
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
